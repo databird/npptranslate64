@@ -1,0 +1,43 @@
+ar::يقفز الثعلب البنى السريع فوق الكلب كسول
+bg::Бързата кафява лисица Прескочи ленивото куче
+ca::La feliç guineu marró salta per sobre el gos mandrós
+zh-CHS::那只敏捷的棕色狐狸跳过了懒狗
+zh-CHT::那只敏捷的棕色狐狸跳過了懶狗
+cs::Žluťoučký přejde přes líný pes
+da::Den hurtige brune ræv hopper over den dovne hund
+nl::Bezag springt over de luie hond
+estonian::See väike Mölder jõuab rongile hüpata lazy dog
+fi::Nopea ruskea kettu hyppää yli laiska koira
+fr::Le rapide renard brun saute sur le chien paresseux
+de::Der schnelle braune Fuchs springt über den faulen Hund
+el::Ανδρέας Κάλβος άλματα πάνω από Κάλβος
+ht::A rapide chat mawon sote sou parese chen
+he::זך מעל הכלב העצלן
+hindi::त्वरित भूरा लोमड़ी आलसी कुत्ते से अधिक छलांग
+mww::Tus hma liab daj thiab ceev jumps li tus dev tub nkees
+hu::Árvíztűrő tükörfúrógép Árvíztűrő tükörfúrógép ugrik
+id::Cokelat cepat rubah melompat atas anjing malas
+it::La volpe marrone rapida salta sopra il cane pigro
+japanese::速い茶色のキツネがのろまな犬を飛び越える
+tlh::boqta' Ha'DIbaH buD Sup fox Qapchu' Doq 'ej wovbe'
+ko::빠른 갈색 여우는 게으른 개에 뛰어 오른다
+lv::Brūns ātrā lapsa lec pār slinki suņu
+lt::Greita ruda lapė šokinėja per tingus šuo
+ms::Serigala coklat yang pantas melompat ke atas anjing yang malas
+maltese::Ġganteska jumps tul-kelb għażżiena
+no::Den raske brune reven hopper over den late hunden
+fa::روباه قهوه ای سریع روی سگ تنبل می پرد
+pl::Zażółć gęślą jaźń nad leniwym psem
+portugese::A rápida raposa marrom pula sobre o cão preguiçoso
+ro::Vulpea maro rapid sare peste câinele cel leneş
+ru::Quick brown fox перепрыгивает через ленивую собаку
+sk::Rýchla hnedá líška preskakuje lenivého psa
+sl::Hitra rjava lisica preskoči lenega psa
+es::El rápido zorro marrón salta sobre el perro perezoso
+swedish::Den Flygande bäckasiner söka hwila på mjuka tuvor
+thai::สุนัขจิ้งจอกสีน้ำตาลอย่างรวดเร็วกระโดดสุนัข
+tr::Hızlı kahverengi tilki tembel köpeğin üstünden atlar
+ukranian::Швидкий коричневий Фокс перестрибує ледачий собака
+ur::فوری پرغلط گڑزردصراحی چھلانگ
+vi::Lươn nhảy qua con chó lười biếng
+cy::Neidio'r llwynog brown cyflym dros y ci ddiog
